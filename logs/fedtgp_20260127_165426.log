@@ -1,0 +1,512 @@
+2026-01-27 16:54:26,371 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_165426.log
+2026-01-27 16:54:26,371 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_165426.log
+2026-01-27 16:54:26,375 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_165426.log
+2026-01-27 16:54:26,389 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_165426.log
+2026-01-27 16:54:33,977 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 16:54:33,977 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x00000255F52AC7F0>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 16:54:33,977 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 16:54:33,978 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 16:54:33,978 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 16:54:33,978 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:33,978 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:34,039 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 16:54:34,040 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x0000013AA069B7F0>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 16:54:34,040 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 16:54:34,040 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 16:54:34,040 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 16:54:34,041 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:34,041 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:34,089 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 16:54:34,090 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x000002C47B66C7F0>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 16:54:34,090 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 16:54:34,090 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 16:54:34,090 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 16:54:34,091 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:34,091 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:34,152 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 16:54:34,153 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x000001C2D628B7F0>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 16:54:34,153 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 16:54:34,153 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 16:54:34,153 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 16:54:34,154 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x0000026DD17DB7F0>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 16:54:34,155 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 16:54:34,156 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:34,156 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:35,439 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:35,439 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:35,439 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:35,440 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:35,506 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:35,507 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:35,509 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:35,509 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:35,532 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 16:54:35,532 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 16:54:36,258 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 16:54:36,260 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 16:54:36,277 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 16:54:36,278 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 16:54:36,279 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 16:54:36,279 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 16:54:36,279 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 16:54:36,280 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 16:54:36,280 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 16:54:36,280 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 16:54:36,305 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 16:54:36,305 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 16:54:36,306 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 16:54:36,306 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 16:54:36,323 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 16:54:36,326 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 16:54:36,344 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 16:54:36,345 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 16:54:36,345 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 16:54:36,345 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 16:54:36,347 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 16:54:36,348 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 16:54:36,348 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 16:54:36,348 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 16:54:36,351 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 16:54:36,352 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 16:54:36,353 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 16:54:36,353 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 16:54:36,374 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 16:54:36,376 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 16:54:36,378 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 16:54:36,381 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 16:54:36,381 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 16:54:36,381 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 16:54:36,382 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 16:54:36,389 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 16:54:36,390 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 16:54:36,405 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 16:54:36,407 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 16:54:36,407 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 16:54:36,408 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 16:54:36,410 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 16:54:36,411 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 16:54:36,413 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 16:54:36,414 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 16:54:36,417 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 16:54:36,417 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 16:54:36,428 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 16:54:36,429 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 16:54:36,430 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 16:54:36,430 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 16:54:36,437 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 16:54:36,437 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 16:54:36,438 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 16:54:36,439 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 16:54:36,440 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,440 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,440 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,442 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,442 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,442 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,443 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 16:54:36,448 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,447 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,450 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,452 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 16:54:36,453 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 16:54:36,453 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 16:54:36,453 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 16:54:36,453 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 16:54:36,453 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 16:54:36,454 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 16:54:36,454 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 16:54:36,454 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 16:54:36,454 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 16:54:36,454 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,469 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 16:54:36,469 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 16:54:36,470 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 16:54:36,471 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 16:54:36,484 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 16:54:36,485 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 16:54:36,501 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 16:54:36,501 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 16:54:36,502 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 16:54:36,502 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 16:54:36,505 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 16:54:36,506 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,507 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,507 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,508 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,512 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,513 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,513 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,513 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 16:54:36,513 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 16:54:36,513 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 16:54:36,514 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 16:54:36,514 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 16:54:36,514 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 16:54:36,514 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 16:54:36,515 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 16:54:36,515 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 16:54:36,515 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 16:54:36,515 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,520 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 16:54:36,521 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,521 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,521 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,522 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 16:54:36,526 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 16:54:36,527 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,529 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 16:54:36,530 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 16:54:36,531 - ./logs\fedml-run-0-edge-0.log - ERROR - Error in FedTGP training: Exception
+2026-01-27 16:54:36,532 - ./logs\fedml-run-0-edge-0.log - INFO - Trying alternative mode...
+2026-01-27 16:54:36,533 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 16:54:36,533 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 16:54:36,534 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,534 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,534 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,534 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,534 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,535 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,535 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,538 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,538 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,538 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 16:54:36,539 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 16:54:36,540 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,541 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,542 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,543 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,544 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,545 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 16:54:36,545 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone training completed!
+2026-01-27 16:54:36,545 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone training completed!
+2026-01-27 16:54:36,553 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 16:54:36,554 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,555 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,555 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,556 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,559 - ./logs\fedml-run-0-edge-0.log - ERROR - Error in FedTGP training: Exception
+2026-01-27 16:54:36,560 - ./logs\fedml-run-0-edge-0.log - INFO - Trying alternative mode...
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 16:54:36,561 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 16:54:36,562 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 16:54:36,563 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,563 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 16:54:36,563 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 16:54:36,563 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,566 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,566 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,566 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,566 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 16:54:36,566 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,567 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,567 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,567 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,567 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,568 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,569 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 16:54:36,569 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,569 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 16:54:36,569 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,569 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,570 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 16:54:36,572 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,572 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,572 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,572 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,572 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 16:54:36,573 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,574 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 16:54:36,574 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone training completed!
+2026-01-27 16:54:36,581 - ./logs\fedml-run-0-edge-0.log - ERROR - Error in FedTGP training: Exception
+2026-01-27 16:54:36,584 - ./logs\fedml-run-0-edge-0.log - INFO - Trying alternative mode...
+2026-01-27 16:54:36,584 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 16:54:36,586 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,586 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,586 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,587 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,590 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,590 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 16:54:36,591 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,592 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 16:54:36,592 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,592 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 16:54:36,593 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 16:54:36,594 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,595 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,596 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 16:54:36,597 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,598 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 16:54:36,598 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone training completed!
+2026-01-27 16:54:36,620 - ./logs\fedml-run-0-edge-0.log - ERROR - Error in FedTGP training: Exception
+2026-01-27 16:54:36,623 - ./logs\fedml-run-0-edge-0.log - INFO - Trying alternative mode...
+2026-01-27 16:54:36,623 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 16:54:36,624 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,625 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 16:54:36,625 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 16:54:36,626 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 16:54:36,632 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 16:54:36,632 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 16:54:36,632 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,632 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 16:54:36,632 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,633 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,633 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,633 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,633 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 16:54:36,633 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,634 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 16:54:36,634 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 16:54:36,635 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,636 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 16:54:36,636 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,636 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 16:54:36,636 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,637 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,637 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,637 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,637 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 16:54:36,637 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,638 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,639 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 16:54:36,639 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,639 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 16:54:36,639 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 16:54:36,639 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - WARNING - No data to aggregate
+2026-01-27 16:54:36,640 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 16:54:36,641 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone training completed!

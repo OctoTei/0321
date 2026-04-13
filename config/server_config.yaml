@@ -1,0 +1,49 @@
+common_args:
+  training_type: "cross_silo"
+  random_seed: 42
+
+data_args:
+  dataset: "cifar10"
+  data_cache_dir: "./data"
+  partition_method: "dirichlet"
+  partition_alpha: 0.1
+
+model_args:
+  model: "resnet18"
+  num_classes: 10
+  feature_dim: 512
+  pretrained: false
+
+train_args:
+  federated_optimizer: "FedTGP"
+  client_num_in_total: 8
+  client_num_per_round: 8
+  comm_round: 100
+  epochs: 1
+  batch_size: 10
+  learning_rate: 0.01
+  weight_decay: 0.0001
+  lamda: 0.1
+  tgp_lr: 0.01
+  tgp_epochs: 100
+  tau: 100
+
+device_args:
+  using_gpu: true
+  gpu_id: 0
+
+comm_args:
+  server_ip: "0.0.0.0"
+  server_port: 20000
+  initial_connect_timeout: 300
+  accept_poll_interval: 5
+  client_handshake_timeout: 15
+
+logging_args:
+  log_file_dir: "./logs"
+
+wandb_args:
+  enable_wandb: true
+  wandb_project: "fedtgp_0318"
+  wandb_name: "server"
+  wandb_key: "a884899c368de2d8063f4b9a9fd9900bf946cfba"

@@ -1,0 +1,75 @@
+common_args:
+  training_type: "cross_silo"
+  random_seed: 42
+
+data_args:
+  dataset: "cifar10"
+  data_cache_dir: "./data"
+  partition_method: "dirichlet"
+  partition_alpha: 0.1  # ✅ 改为0.1，增加Non-IID程度
+  sample_ratio: 0.25  # ✅ 新增：采样比例（0.25 = 25%）
+  use_fedtgp_loader: false  # true: 使用预划分的.npz文件; false: 使用实时划分
+
+model_args:
+  model: "resnet18"  # 默认使用ResNet18
+  num_classes: 10
+  feature_dim: 512  # 统一特征维度
+  pretrained: false  # 是否使用预训练权重
+
+# 客户端特定配置
+client_configs:
+  client_1:
+    feature_extractor: "cnn4"
+    classifier: "classifier1"
+  client_2:
+    feature_extractor: "googlenet"
+    classifier: "classifier2"
+  client_3:
+    feature_extractor: "mobilenet_v2"
+    classifier: "classifier3"
+  client_4:
+    feature_extractor: "resnet18"
+    classifier: "classifier4"
+  client_5:
+    feature_extractor: "resnet34"
+    classifier: "classifier5"
+  client_6:
+    feature_extractor: "resnet50"
+    classifier: "classifier6"
+  client_7:
+    feature_extractor: "resnet101"
+    classifier: "classifier7"
+  client_8:
+    feature_extractor: "resnet152"
+    classifier: "classifier8"
+
+train_args:
+  federated_optimizer: "FedTGP"
+  client_num_in_total: 8  # 8个客户端
+  client_num_per_round: 8  # 每轮8个客户端都参与
+  comm_round: 100  # 通信轮数
+  epochs: 5  # 本地训练轮数
+  batch_size: 64
+  learning_rate: 0.01
+  weight_decay: 0.0001
+  lamda: 0.5  # 原型对齐损失权重（降低从1.0到0.5）
+  tgp_lr: 0.01  # TGP学习率
+  tgp_epochs: 5  # TGP训练轮数
+  tau: 0.8  # 自适应margin阈值（从1.0调整到0.8）
+
+device_args:
+  using_gpu: false
+  gpu_id: 0
+
+comm_args:
+  server_ip: "10.0.1.12"
+  server_port: 20000
+
+logging_args:
+  log_file_dir: "./logs"
+
+wandb_args:
+  enable_wandb: true
+  wandb_project: "fedtgp_0311"
+  wandb_name: "fedtgp_cifar10_4clients"
+  wandb_key: ""  # 留空则使用 wandb login 登录的账号

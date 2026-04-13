@@ -1,0 +1,1340 @@
+2026-01-27 17:01:42,419 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_170142.log
+2026-01-27 17:01:42,419 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_170142.log
+2026-01-27 17:01:42,422 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_170142.log
+2026-01-27 17:01:42,445 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_170142.log
+2026-01-27 17:01:42,550 - FedTGP - INFO - Log file: G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\logs\fedtgp_20260127_170142.log
+2026-01-27 17:01:50,649 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 17:01:50,650 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x00000149317BB970>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 17:01:50,650 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 17:01:50,650 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 17:01:50,650 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 17:01:50,651 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:50,651 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:50,759 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 17:01:50,760 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x00000190FD7DB970>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 17:01:50,760 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 17:01:50,760 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 17:01:50,760 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 17:01:50,761 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:50,761 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x00000213B4D9B970>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x00000262240EC970>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 17:01:50,794 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 17:01:50,795 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 17:01:50,795 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:50,795 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:50,795 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:50,795 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:50,909 - ./logs\fedml-run-0-edge-0.log - INFO - args.rank = 0, args.worker_num = 2
+2026-01-27 17:01:50,910 - ./logs\fedml-run-0-edge-0.log - INFO - args = <fedml.arguments.Arguments object at 0x000001FF1C80B970>, using_gpu = False, device_id = 0, device_type = cpu
+2026-01-27 17:01:50,910 - ./logs\fedml-run-0-edge-0.log - INFO - device = cpu
+2026-01-27 17:01:50,910 - ./logs\fedml-run-0-edge-0.log - INFO - Using device: cpu
+2026-01-27 17:01:50,910 - ./logs\fedml-run-0-edge-0.log - INFO - *********partition data***************
+2026-01-27 17:01:50,911 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:50,911 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:52,056 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:52,056 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:52,227 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:52,227 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:52,244 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:52,245 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:52,263 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:52,263 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:52,348 - ./logs\fedml-run-0-edge-0.log - INFO - download = True
+2026-01-27 17:01:52,348 - ./logs\fedml-run-0-edge-0.log - INFO - 
+
+2026-01-27 17:01:53,024 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 17:01:53,047 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 17:01:53,048 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 17:01:53,048 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 17:01:53,048 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 17:01:53,074 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 17:01:53,074 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 17:01:53,110 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 17:01:53,110 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 17:01:53,139 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 17:01:53,139 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 17:01:53,165 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 17:01:53,165 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 17:01:53,191 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 17:01:53,193 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,194 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,194 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,195 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,201 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,201 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,201 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 17:01:53,202 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 17:01:53,203 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 17:01:53,203 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,203 - ./logs\fedml-run-0-edge-0.log - INFO - Starting FedTGP standalone training (FedML SimulatorSingleProcess does not support custom optimizers)...
+2026-01-27 17:01:53,203 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 17:01:53,218 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,219 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,219 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 0
+2026-01-27 17:01:53,228 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,228 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,228 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 1
+2026-01-27 17:01:53,251 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,252 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,252 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 2
+2026-01-27 17:01:53,262 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,263 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,263 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 3
+2026-01-27 17:01:53,263 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,264 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,267 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,267 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,267 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:01:53,267 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 17:01:53,267 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,268 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 3]
+2026-01-27 17:01:53,270 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 17:01:53,277 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 17:01:53,281 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 17:01:53,291 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 17:01:53,293 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 17:01:53,294 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 17:01:53,294 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 17:01:53,295 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:01:53,296 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 0
+2026-01-27 17:01:53,303 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 17:01:53,303 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 17:01:53,304 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 17:01:53,304 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 17:01:53,304 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 17:01:53,306 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 17:01:53,306 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 17:01:53,306 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 17:01:53,322 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 17:01:53,323 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 17:01:53,348 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 17:01:53,348 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 17:01:53,349 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 17:01:53,349 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 17:01:53,373 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 17:01:53,374 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 17:01:53,378 - ./logs\fedml-run-0-edge-0.log - INFO - N = 50000
+2026-01-27 17:01:53,401 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 17:01:53,404 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 17:01:53,412 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 17:01:53,412 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 17:01:53,412 - ./logs\fedml-run-0-edge-0.log - INFO - traindata_cls_counts = {0: {0: 1493, 1: 192, 2: 1199, 3: 3354, 4: 1764, 5: 1381, 6: 10, 7: 46, 8: 7, 9: 554}, 1: {0: 1205, 1: 2218, 2: 4, 3: 834, 4: 431, 5: 1338, 6: 2348, 7: 1527, 8: 255, 9: 4445}, 2: {0: 723, 1: 1583, 2: 878, 3: 753, 4: 27, 5: 1287, 6: 824, 7: 1938, 8: 4738}, 3: {0: 1579, 1: 1007, 2: 2919, 3: 59, 4: 2778, 5: 994, 6: 1818, 7: 1489, 9: 1}}
+2026-01-27 17:01:53,418 - ./logs\fedml-run-0-edge-0.log - INFO - train_dl_global number = 1562
+2026-01-27 17:01:53,418 - ./logs\fedml-run-0-edge-0.log - INFO - test_dl_global number = 312
+2026-01-27 17:01:53,418 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 17:01:53,418 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, local_sample_number = 10000
+2026-01-27 17:01:53,418 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 17:01:53,459 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 17:01:53,460 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 17:01:53,466 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 17:01:53,466 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 17:01:53,475 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 0, batch_num_train_local = 312, batch_num_test_local = 312
+2026-01-27 17:01:53,477 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, local_sample_number = 14605
+2026-01-27 17:01:53,503 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 17:01:53,503 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 17:01:53,537 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 17:01:53,537 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 17:01:53,546 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 1, batch_num_train_local = 456, batch_num_test_local = 312
+2026-01-27 17:01:53,547 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, local_sample_number = 12751
+2026-01-27 17:01:53,566 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 17:01:53,573 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 17:01:53,584 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 2, batch_num_train_local = 398, batch_num_test_local = 312
+2026-01-27 17:01:53,585 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, local_sample_number = 12644
+2026-01-27 17:01:53,591 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 17:01:53,591 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 17:01:53,598 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,599 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,601 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,602 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,602 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,602 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,604 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,607 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,614 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 17:01:53,615 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,616 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,616 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,619 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,619 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 17:01:53,620 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 17:01:53,621 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 17:01:53,621 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,622 - ./logs\fedml-run-0-edge-0.log - INFO - Starting FedTGP standalone training (FedML SimulatorSingleProcess does not support custom optimizers)...
+2026-01-27 17:01:53,622 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 17:01:53,622 - ./logs\fedml-run-0-edge-0.log - INFO - client_idx = 3, batch_num_train_local = 395, batch_num_test_local = 312
+2026-01-27 17:01:53,623 - ./logs\fedml-run-0-edge-0.log - INFO - Dataset loaded, num_classes: 10
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,625 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 17:01:53,626 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - Starting FedTGP standalone training (FedML SimulatorSingleProcess does not support custom optimizers)...
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - Starting FedTGP standalone training (FedML SimulatorSingleProcess does not support custom optimizers)...
+2026-01-27 17:01:53,627 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 0
+2026-01-27 17:01:53,634 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 0
+2026-01-27 17:01:53,637 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,637 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,638 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 0
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 1
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,641 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 1
+2026-01-27 17:01:53,643 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,643 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,643 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 1
+2026-01-27 17:01:53,646 - ./logs\fedml-run-0-edge-0.log - INFO - Model initialized on cpu, feature_dim=512, in_channels=3
+2026-01-27 17:01:53,647 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,648 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 2
+2026-01-27 17:01:53,649 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,650 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,650 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 2
+2026-01-27 17:01:53,653 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGP Configuration:
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO -   Dataset: cifar10
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO -   Num Clients: 4
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO -   Client per Round: 2
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 3
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Comm Rounds: 5
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Local Epochs: 2
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Lambda: 10.0
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Feature Dim: 512
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Server Epochs: 5
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO -   Proto Storage: ./proto_storage
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO - Starting FedTGP standalone training (FedML SimulatorSingleProcess does not support custom optimizers)...
+2026-01-27 17:01:53,655 - ./logs\fedml-run-0-edge-0.log - INFO - Starting standalone FedTGP training...
+ng\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,654 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,657 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 2
+2026-01-27 17:01:53,659 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,659 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,659 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 3
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,660 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,661 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 3]
+2026-01-27 17:01:53,663 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,664 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,664 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:01:53,664 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 17:01:53,664 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,665 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 3]
+2026-01-27 17:01:53,670 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,670 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,670 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 3
+2026-01-27 17:01:53,671 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,672 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,673 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,673 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,674 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 0
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,677 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:01:53,678 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 3]
+2026-01-27 17:01:53,680 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 0
+2026-01-27 17:01:53,682 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:01:53,683 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 0
+2026-01-27 17:01:53,684 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,684 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,684 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 1
+2026-01-27 17:01:53,687 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:01:53,688 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 0
+2026-01-27 17:01:53,689 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,689 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,689 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 2
+2026-01-27 17:01:53,694 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,694 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPTrainer initialized for client 0
+2026-01-27 17:01:53,694 - ./logs\fedml-run-0-edge-0.log - INFO - Created trainer for client 3
+2026-01-27 17:01:53,695 - ./logs\fedml-run-0-edge-0.log - INFO - contribution_alg is not set, assessor is None
+2026-01-27 17:01:53,695 - ./logs\fedml-run-0-edge-0.log - INFO - ProtoStorageManager initialized at G:\wang\2026.1.23fedproto and fedtgp\FedML-master\FedML-master\fedml_fedtgp\proto_storage
+2026-01-27 17:01:53,699 - ./logs\fedml-run-0-edge-0.log - WARNING - Global protos not found for round 0
+2026-01-27 17:01:53,699 - ./logs\fedml-run-0-edge-0.log - INFO - FedTGPAggregator initialized, num_classes=10, device=cpu
+2026-01-27 17:01:53,700 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:01:53,700 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1/5
+2026-01-27 17:01:53,700 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:01:53,700 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 3]
+2026-01-27 17:01:53,704 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:01:53,704 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 0
+2026-01-27 17:02:30,401 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7873
+2026-01-27 17:02:30,823 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7873
+2026-01-27 17:02:30,950 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7873
+2026-01-27 17:02:31,072 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7873
+2026-01-27 17:02:31,249 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7873
+2026-01-27 17:03:06,328 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5880
+2026-01-27 17:03:06,361 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 0 to ./proto_storage\clients\client_0\client_0_round_0.pt
+2026-01-27 17:03:06,361 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:03:06,364 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:03:06,373 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 3...
+2026-01-27 17:03:06,374 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 starting training for round 0
+2026-01-27 17:03:06,644 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5880
+2026-01-27 17:03:06,670 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 0 to ./proto_storage\clients\client_0\client_0_round_0.pt
+2026-01-27 17:03:06,671 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:03:06,672 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:03:06,677 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 3...
+2026-01-27 17:03:06,678 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 starting training for round 0
+2026-01-27 17:03:07,156 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5880
+2026-01-27 17:03:07,184 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 0 to ./proto_storage\clients\client_0\client_0_round_0.pt
+2026-01-27 17:03:07,185 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:03:07,187 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:03:07,195 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 3...
+2026-01-27 17:03:07,196 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 starting training for round 0
+2026-01-27 17:03:07,530 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5880
+2026-01-27 17:03:07,539 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5880
+2026-01-27 17:03:07,560 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 0 to ./proto_storage\clients\client_0\client_0_round_0.pt
+2026-01-27 17:03:07,560 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:03:07,561 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 0 to ./proto_storage\clients\client_0\client_0_round_0.pt
+2026-01-27 17:03:07,561 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:03:07,562 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:03:07,563 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:03:07,573 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 3...
+2026-01-27 17:03:07,574 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 starting training for round 0
+2026-01-27 17:03:07,574 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 3...
+2026-01-27 17:03:07,575 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 starting training for round 0
+2026-01-27 17:03:56,525 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 0, Loss: 1.9070
+2026-01-27 17:03:56,839 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 0, Loss: 1.9070
+2026-01-27 17:03:57,058 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 0, Loss: 1.9070
+2026-01-27 17:03:57,708 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 0, Loss: 1.9070
+2026-01-27 17:03:57,790 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 0, Loss: 1.9070
+2026-01-27 17:04:42,476 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 1, Loss: 1.7097
+2026-01-27 17:04:42,572 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 3 protos for round 0 to ./proto_storage\clients\client_3\client_3_round_0.pt
+2026-01-27 17:04:42,572 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished training, collected 9 protos
+2026-01-27 17:04:42,572 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished, samples=12644
+2026-01-27 17:04:42,573 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:04:42,573 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 17:04:42,612 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 0
+2026-01-27 17:04:42,612 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:04:42,638 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 0
+2026-01-27 17:04:42,638 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 9 classes
+2026-01-27 17:04:42,638 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_0.pt
+2026-01-27 17:04:42,668 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 3 protos for round 0
+2026-01-27 17:04:42,668 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 3: 9 classes
+2026-01-27 17:04:42,669 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 3 clients' protos
+2026-01-27 17:04:42,871 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 1, Loss: 1.7097
+2026-01-27 17:04:42,886 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 3 protos for round 0 to ./proto_storage\clients\client_3\client_3_round_0.pt
+2026-01-27 17:04:42,886 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished training, collected 9 protos
+2026-01-27 17:04:42,886 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished, samples=12644
+2026-01-27 17:04:42,886 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:04:42,888 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 17:04:42,890 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 0
+2026-01-27 17:04:42,890 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:04:42,891 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 0
+2026-01-27 17:04:42,892 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 9 classes
+2026-01-27 17:04:42,892 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_0.pt
+2026-01-27 17:04:42,924 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 3 protos for round 0
+2026-01-27 17:04:42,925 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 3: 9 classes
+2026-01-27 17:04:42,926 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 3 clients' protos
+2026-01-27 17:04:42,975 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.2129, Time: 0.30s
+2026-01-27 17:04:43,004 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 1, Loss: 1.7097
+2026-01-27 17:04:43,016 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 3 protos for round 0 to ./proto_storage\clients\client_3\client_3_round_0.pt
+2026-01-27 17:04:43,016 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished training, collected 9 protos
+2026-01-27 17:04:43,019 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished, samples=12644
+2026-01-27 17:04:43,020 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:04:43,020 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 17:04:43,022 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 0
+2026-01-27 17:04:43,022 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:04:43,024 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 0
+2026-01-27 17:04:43,024 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 9 classes
+2026-01-27 17:04:43,025 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_0.pt
+2026-01-27 17:04:43,058 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 3 protos for round 0
+2026-01-27 17:04:43,059 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 3: 9 classes
+2026-01-27 17:04:43,059 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 3 clients' protos
+2026-01-27 17:04:43,099 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.2129, Time: 0.17s
+2026-01-27 17:04:43,166 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.2129, Time: 0.10s
+2026-01-27 17:04:43,239 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.2030, Time: 0.12s
+2026-01-27 17:04:43,322 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.2030, Time: 0.11s
+2026-01-27 17:04:43,391 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.2030, Time: 0.10s
+2026-01-27 17:04:43,451 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.1936, Time: 0.11s
+2026-01-27 17:04:43,453 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 1, Loss: 1.7097
+2026-01-27 17:04:43,456 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.78s
+2026-01-27 17:04:43,463 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:04:43,464 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.89s
+2026-01-27 17:04:43,465 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 3 protos for round 0 to ./proto_storage\clients\client_3\client_3_round_0.pt
+2026-01-27 17:04:43,465 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished training, collected 9 protos
+2026-01-27 17:04:43,466 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:04:43,468 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished, samples=12644
+2026-01-27 17:04:43,468 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:04:43,468 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 17:04:43,470 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 0
+2026-01-27 17:04:43,470 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:04:43,472 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 0
+2026-01-27 17:04:43,472 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 9 classes
+2026-01-27 17:04:43,473 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_0.pt
+2026-01-27 17:04:43,504 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 3 protos for round 0
+2026-01-27 17:04:43,504 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 3: 9 classes
+2026-01-27 17:04:43,504 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 3 clients' protos
+2026-01-27 17:04:43,550 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.1936, Time: 0.13s
+2026-01-27 17:04:43,554 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.62s
+2026-01-27 17:04:43,568 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:04:43,568 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.68s
+2026-01-27 17:04:43,571 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:04:43,667 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.2129, Time: 0.16s
+2026-01-27 17:04:43,671 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.1936, Time: 0.16s
+2026-01-27 17:04:43,683 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.61s
+2026-01-27 17:04:43,703 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:04:43,704 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.68s
+2026-01-27 17:04:43,706 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:04:43,706 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 Epoch 1, Loss: 1.7097
+2026-01-27 17:04:43,718 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 3 protos for round 0 to ./proto_storage\clients\client_3\client_3_round_0.pt
+2026-01-27 17:04:43,718 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished training, collected 9 protos
+2026-01-27 17:04:43,720 - ./logs\fedml-run-0-edge-0.log - INFO - Client 3 finished, samples=12644
+2026-01-27 17:04:43,720 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:04:43,720 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 0
+2026-01-27 17:04:43,721 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 0
+2026-01-27 17:04:43,722 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:04:43,723 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 0
+2026-01-27 17:04:43,723 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 9 classes
+2026-01-27 17:04:43,723 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_0.pt
+2026-01-27 17:04:43,749 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 3 protos for round 0
+2026-01-27 17:04:43,750 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 3: 9 classes
+2026-01-27 17:04:43,750 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 3 clients' protos
+2026-01-27 17:04:43,938 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.2129, Time: 0.19s
+2026-01-27 17:04:44,046 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.2030, Time: 0.15s
+2026-01-27 17:04:44,238 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.2030, Time: 0.12s
+2026-01-27 17:04:44,348 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.1936, Time: 0.15s
+2026-01-27 17:04:44,354 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.84s
+2026-01-27 17:04:44,369 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:04:44,369 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.90s
+2026-01-27 17:04:44,374 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:04:44,830 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.1936, Time: 0.37s
+2026-01-27 17:04:44,853 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 1.08s
+2026-01-27 17:04:44,880 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:04:44,880 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.16s
+2026-01-27 17:04:44,885 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:05:00,505 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.0540
+2026-01-27 17:05:00,505 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 Test Accuracy: 5.40%
+2026-01-27 17:05:00,505 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 17:05:00,506 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:05:00,506 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 17:05:00,506 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:05:00,545 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 1 to ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:00,545 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [2, 0]
+2026-01-27 17:05:00,589 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:00,596 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:05:00,596 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 1
+2026-01-27 17:05:00,865 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.0540
+2026-01-27 17:05:00,866 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 Test Accuracy: 5.40%
+2026-01-27 17:05:00,866 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 17:05:00,867 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:05:00,867 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 17:05:00,867 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:05:00,882 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 1 to ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:00,882 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [2, 0]
+2026-01-27 17:05:00,916 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:00,922 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:05:00,923 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 1
+2026-01-27 17:05:01,144 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.0540
+2026-01-27 17:05:01,146 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 Test Accuracy: 5.40%
+2026-01-27 17:05:01,147 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 17:05:01,147 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:05:01,147 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 17:05:01,147 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:05:01,163 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 1 to ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:01,164 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [2, 0]
+2026-01-27 17:05:01,200 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:01,209 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:05:01,210 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 1
+2026-01-27 17:05:01,912 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.0540
+2026-01-27 17:05:01,912 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 Test Accuracy: 5.40%
+2026-01-27 17:05:01,913 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 17:05:01,913 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:05:01,913 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 17:05:01,913 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:05:01,932 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 1 to ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:01,933 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [2, 0]
+2026-01-27 17:05:01,968 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:01,972 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:05:01,973 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 1
+2026-01-27 17:05:02,435 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.0540
+2026-01-27 17:05:02,435 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 Test Accuracy: 5.40%
+2026-01-27 17:05:02,436 - ./logs\fedml-run-0-edge-0.log - INFO - Round 1 completed
+2026-01-27 17:05:02,436 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:05:02,436 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2/5
+2026-01-27 17:05:02,436 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:05:02,455 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 1 to ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:02,455 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [2, 0]
+2026-01-27 17:05:02,498 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:05:02,504 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:05:02,505 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 1
+2026-01-27 17:05:45,677 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.9336
+2026-01-27 17:05:46,112 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.9336
+2026-01-27 17:05:46,548 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.9336
+2026-01-27 17:05:46,934 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.9336
+2026-01-27 17:05:47,426 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.9336
+2026-01-27 17:06:30,400 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.6589
+2026-01-27 17:06:30,473 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 1 to ./proto_storage\clients\client_2\client_2_round_1.pt
+2026-01-27 17:06:30,473 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:06:30,474 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:06:30,481 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:06:30,485 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:06:30,488 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 1
+2026-01-27 17:06:30,859 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.6589
+2026-01-27 17:06:30,874 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 1 to ./proto_storage\clients\client_2\client_2_round_1.pt
+2026-01-27 17:06:30,874 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:06:30,875 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:06:30,883 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:06:30,888 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:06:30,889 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 1
+2026-01-27 17:06:31,610 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.6589
+2026-01-27 17:06:31,621 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 1 to ./proto_storage\clients\client_2\client_2_round_1.pt
+2026-01-27 17:06:31,621 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:06:31,623 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:06:31,629 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:06:31,634 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:06:31,635 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 1
+2026-01-27 17:06:31,670 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.6589
+2026-01-27 17:06:31,682 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 1 to ./proto_storage\clients\client_2\client_2_round_1.pt
+2026-01-27 17:06:31,683 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:06:31,683 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:06:31,687 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:06:31,689 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:06:31,692 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 1
+2026-01-27 17:06:32,313 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.6589
+2026-01-27 17:06:32,329 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 1 to ./proto_storage\clients\client_2\client_2_round_1.pt
+2026-01-27 17:06:32,330 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:06:32,331 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:06:32,336 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_1.pt
+2026-01-27 17:06:32,342 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:06:32,343 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 1
+2026-01-27 17:07:06,335 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.9018
+2026-01-27 17:07:06,535 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.9018
+2026-01-27 17:07:07,419 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.9018
+2026-01-27 17:07:07,694 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.9018
+2026-01-27 17:07:07,976 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.9018
+2026-01-27 17:07:42,956 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.7084
+2026-01-27 17:07:42,973 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 1 to ./proto_storage\clients\client_0\client_0_round_1.pt
+2026-01-27 17:07:42,974 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:07:42,976 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:07:42,976 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:07:42,976 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 17:07:43,008 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 1
+2026-01-27 17:07:43,008 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:07:43,008 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_1.pt
+2026-01-27 17:07:43,038 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 1
+2026-01-27 17:07:43,038 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:07:43,039 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_1.pt
+2026-01-27 17:07:43,039 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:07:43,234 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0115, Time: 0.19s
+2026-01-27 17:07:43,352 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.7084
+2026-01-27 17:07:43,365 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 1 to ./proto_storage\clients\client_0\client_0_round_1.pt
+2026-01-27 17:07:43,366 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:07:43,367 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:07:43,367 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:07:43,367 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 17:07:43,398 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 1
+2026-01-27 17:07:43,398 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:07:43,398 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_1.pt
+2026-01-27 17:07:43,401 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 1
+2026-01-27 17:07:43,401 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:07:43,402 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_1.pt
+2026-01-27 17:07:43,402 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:07:43,512 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0113, Time: 0.11s
+2026-01-27 17:07:43,520 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0115, Time: 0.11s
+2026-01-27 17:07:43,749 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0111, Time: 0.12s
+2026-01-27 17:07:43,758 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0113, Time: 0.12s
+2026-01-27 17:07:43,760 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.70s
+2026-01-27 17:07:43,771 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:07:43,773 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.80s
+2026-01-27 17:07:43,777 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:07:44,116 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0111, Time: 0.18s
+2026-01-27 17:07:44,127 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.71s
+2026-01-27 17:07:44,154 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:07:44,155 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.79s
+2026-01-27 17:07:44,158 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:07:44,184 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.7084
+2026-01-27 17:07:44,195 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 1 to ./proto_storage\clients\client_0\client_0_round_1.pt
+2026-01-27 17:07:44,196 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:07:44,198 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:07:44,198 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:07:44,198 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 17:07:44,233 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 1
+2026-01-27 17:07:44,233 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:07:44,233 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_1.pt
+2026-01-27 17:07:44,234 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.7084
+2026-01-27 17:07:44,236 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 1
+2026-01-27 17:07:44,237 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:07:44,237 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_1.pt
+2026-01-27 17:07:44,237 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:07:44,248 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 1 to ./proto_storage\clients\client_0\client_0_round_1.pt
+2026-01-27 17:07:44,248 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:07:44,251 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:07:44,252 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:07:44,252 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 17:07:44,278 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 1
+2026-01-27 17:07:44,278 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:07:44,278 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_1.pt
+2026-01-27 17:07:44,281 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 1
+2026-01-27 17:07:44,283 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:07:44,283 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_1.pt
+2026-01-27 17:07:44,283 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:07:44,379 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0115, Time: 0.14s
+2026-01-27 17:07:44,416 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0115, Time: 0.13s
+2026-01-27 17:07:44,461 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.7084
+2026-01-27 17:07:44,472 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 1 to ./proto_storage\clients\client_0\client_0_round_1.pt
+2026-01-27 17:07:44,472 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:07:44,474 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:07:44,475 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:07:44,475 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 1
+2026-01-27 17:07:44,504 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 1
+2026-01-27 17:07:44,504 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:07:44,504 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_1.pt
+2026-01-27 17:07:44,506 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 1
+2026-01-27 17:07:44,506 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:07:44,507 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_1.pt
+2026-01-27 17:07:44,507 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:07:44,639 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0115, Time: 0.13s
+2026-01-27 17:07:44,669 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0113, Time: 0.14s
+2026-01-27 17:07:44,699 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0113, Time: 0.13s
+2026-01-27 17:07:44,805 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0113, Time: 0.06s
+2026-01-27 17:07:44,812 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0111, Time: 0.05s
+2026-01-27 17:07:44,827 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.57s
+2026-01-27 17:07:44,828 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0111, Time: 0.06s
+2026-01-27 17:07:44,835 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.54s
+2026-01-27 17:07:44,836 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:07:44,837 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.64s
+2026-01-27 17:07:44,838 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:07:44,844 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:07:44,844 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.59s
+2026-01-27 17:07:44,853 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:07:45,337 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0111, Time: 0.32s
+2026-01-27 17:07:45,362 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.83s
+2026-01-27 17:07:45,395 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:07:45,396 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.92s
+2026-01-27 17:07:45,406 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:07:59,897 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.1665
+2026-01-27 17:07:59,898 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 Test Accuracy: 16.65%
+2026-01-27 17:07:59,898 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 17:07:59,898 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:07:59,898 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 17:07:59,898 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:07:59,907 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 2 to ./proto_storage\global\global_round_2.pt
+2026-01-27 17:07:59,907 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [1, 0]
+2026-01-27 17:07:59,951 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:07:59,955 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1...
+2026-01-27 17:07:59,957 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 starting training for round 2
+2026-01-27 17:08:00,566 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.1665
+2026-01-27 17:08:00,568 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 Test Accuracy: 16.65%
+2026-01-27 17:08:00,568 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 17:08:00,568 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:08:00,568 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 17:08:00,568 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:08:00,582 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 2 to ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:00,583 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [1, 0]
+2026-01-27 17:08:00,627 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:00,630 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1...
+2026-01-27 17:08:00,631 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 starting training for round 2
+2026-01-27 17:08:01,337 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.1665
+2026-01-27 17:08:01,338 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 Test Accuracy: 16.65%
+2026-01-27 17:08:01,338 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 17:08:01,338 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:08:01,341 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 17:08:01,341 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:08:01,372 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 2 to ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:01,372 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [1, 0]
+2026-01-27 17:08:01,445 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:01,463 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1...
+2026-01-27 17:08:01,466 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 starting training for round 2
+2026-01-27 17:08:01,544 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.1665
+2026-01-27 17:08:01,545 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 Test Accuracy: 16.65%
+2026-01-27 17:08:01,547 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 17:08:01,547 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:08:01,547 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 17:08:01,547 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:08:01,561 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 2 to ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:01,561 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [1, 0]
+2026-01-27 17:08:01,591 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:01,595 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1...
+2026-01-27 17:08:01,595 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 starting training for round 2
+2026-01-27 17:08:02,071 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.1665
+2026-01-27 17:08:02,073 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 Test Accuracy: 16.65%
+2026-01-27 17:08:02,073 - ./logs\fedml-run-0-edge-0.log - INFO - Round 2 completed
+2026-01-27 17:08:02,073 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:08:02,073 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3/5
+2026-01-27 17:08:02,073 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:08:02,085 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 2 to ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:02,085 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [1, 0]
+2026-01-27 17:08:02,119 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:08:02,126 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 1...
+2026-01-27 17:08:02,126 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 starting training for round 2
+2026-01-27 17:08:53,266 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 0, Loss: 1.8542
+2026-01-27 17:08:53,683 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 0, Loss: 1.8542
+2026-01-27 17:08:54,099 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 0, Loss: 1.8542
+2026-01-27 17:08:54,110 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 0, Loss: 1.8542
+2026-01-27 17:08:54,640 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 0, Loss: 1.8542
+2026-01-27 17:09:46,561 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 1, Loss: 1.6181
+2026-01-27 17:09:46,572 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 1 protos for round 2 to ./proto_storage\clients\client_1\client_1_round_2.pt
+2026-01-27 17:09:46,572 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished training, collected 10 protos
+2026-01-27 17:09:46,573 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished, samples=14605
+2026-01-27 17:09:46,583 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:09:46,588 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:09:46,591 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 2
+2026-01-27 17:09:47,424 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 1, Loss: 1.6181
+2026-01-27 17:09:47,438 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 1 protos for round 2 to ./proto_storage\clients\client_1\client_1_round_2.pt
+2026-01-27 17:09:47,439 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished training, collected 10 protos
+2026-01-27 17:09:47,441 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished, samples=14605
+2026-01-27 17:09:47,450 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:09:47,454 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:09:47,454 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 2
+2026-01-27 17:09:47,515 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 1, Loss: 1.6181
+2026-01-27 17:09:47,528 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 1 protos for round 2 to ./proto_storage\clients\client_1\client_1_round_2.pt
+2026-01-27 17:09:47,529 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished training, collected 10 protos
+2026-01-27 17:09:47,530 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished, samples=14605
+2026-01-27 17:09:47,538 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:09:47,542 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:09:47,543 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 2
+2026-01-27 17:09:47,780 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 1, Loss: 1.6181
+2026-01-27 17:09:47,796 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 1 protos for round 2 to ./proto_storage\clients\client_1\client_1_round_2.pt
+2026-01-27 17:09:47,797 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished training, collected 10 protos
+2026-01-27 17:09:47,798 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished, samples=14605
+2026-01-27 17:09:47,807 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:09:47,812 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:09:47,813 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 2
+2026-01-27 17:09:48,192 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 Epoch 1, Loss: 1.6181
+2026-01-27 17:09:48,204 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 1 protos for round 2 to ./proto_storage\clients\client_1\client_1_round_2.pt
+2026-01-27 17:09:48,204 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished training, collected 10 protos
+2026-01-27 17:09:48,208 - ./logs\fedml-run-0-edge-0.log - INFO - Client 1 finished, samples=14605
+2026-01-27 17:09:48,222 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_2.pt
+2026-01-27 17:09:48,226 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:09:48,227 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 2
+2026-01-27 17:10:24,157 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7599
+2026-01-27 17:10:25,233 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7599
+2026-01-27 17:10:25,304 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7599
+2026-01-27 17:10:25,419 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7599
+2026-01-27 17:10:25,778 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.7599
+2026-01-27 17:11:01,207 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.6344
+2026-01-27 17:11:01,220 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 2 to ./proto_storage\clients\client_0\client_0_round_2.pt
+2026-01-27 17:11:01,220 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:11:01,221 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:11:01,222 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:11:01,222 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 17:11:01,250 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 2
+2026-01-27 17:11:01,250 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:11:01,295 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 2
+2026-01-27 17:11:01,296 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 10 classes
+2026-01-27 17:11:01,296 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_2.pt
+2026-01-27 17:11:01,296 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_2.pt
+2026-01-27 17:11:01,296 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:11:01,598 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0113, Time: 0.30s
+2026-01-27 17:11:02,009 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.6344
+2026-01-27 17:11:02,024 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 2 to ./proto_storage\clients\client_0\client_0_round_2.pt
+2026-01-27 17:11:02,024 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:11:02,025 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0111, Time: 0.19s
+2026-01-27 17:11:02,025 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:11:02,026 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:11:02,026 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 17:11:02,056 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 2
+2026-01-27 17:11:02,057 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:11:02,059 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 2
+2026-01-27 17:11:02,060 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 10 classes
+2026-01-27 17:11:02,060 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_2.pt
+2026-01-27 17:11:02,061 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_2.pt
+2026-01-27 17:11:02,061 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:11:02,166 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0113, Time: 0.10s
+2026-01-27 17:11:02,218 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.6344
+2026-01-27 17:11:02,218 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0109, Time: 0.10s
+2026-01-27 17:11:02,228 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.92s
+2026-01-27 17:11:02,229 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 2 to ./proto_storage\clients\client_0\client_0_round_2.pt
+2026-01-27 17:11:02,230 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:11:02,232 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:11:02,232 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:11:02,232 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 17:11:02,242 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:11:02,242 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.02s
+2026-01-27 17:11:02,246 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:11:02,266 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 2
+2026-01-27 17:11:02,266 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:11:02,269 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 2
+2026-01-27 17:11:02,269 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 10 classes
+2026-01-27 17:11:02,270 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_2.pt
+2026-01-27 17:11:02,270 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_2.pt
+2026-01-27 17:11:02,271 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:11:02,299 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.6344
+2026-01-27 17:11:02,316 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 2 to ./proto_storage\clients\client_0\client_0_round_2.pt
+2026-01-27 17:11:02,316 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:11:02,319 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:11:02,320 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:11:02,320 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 17:11:02,347 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 2
+2026-01-27 17:11:02,347 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:11:02,349 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 2
+2026-01-27 17:11:02,349 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 10 classes
+2026-01-27 17:11:02,350 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_2.pt
+2026-01-27 17:11:02,350 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_2.pt
+2026-01-27 17:11:02,350 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:11:02,355 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0113, Time: 0.08s
+2026-01-27 17:11:02,362 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0111, Time: 0.06s
+2026-01-27 17:11:02,418 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0113, Time: 0.06s
+2026-01-27 17:11:02,498 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0111, Time: 0.08s
+2026-01-27 17:11:02,512 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0109, Time: 0.08s
+2026-01-27 17:11:02,528 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.45s
+2026-01-27 17:11:02,543 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:11:02,544 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.52s
+2026-01-27 17:11:02,548 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:11:02,646 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0111, Time: 0.15s
+2026-01-27 17:11:02,678 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.6344
+2026-01-27 17:11:02,698 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 2 to ./proto_storage\clients\client_0\client_0_round_2.pt
+2026-01-27 17:11:02,699 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:11:02,701 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:11:02,702 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:11:02,702 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 2
+2026-01-27 17:11:02,730 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 2
+2026-01-27 17:11:02,731 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:11:02,733 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 1 protos for round 2
+2026-01-27 17:11:02,734 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 1: 10 classes
+2026-01-27 17:11:02,735 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_2\client_2_round_2.pt
+2026-01-27 17:11:02,736 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_2.pt
+2026-01-27 17:11:02,736 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:11:02,793 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0109, Time: 0.14s
+2026-01-27 17:11:02,799 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.52s
+2026-01-27 17:11:02,810 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:11:02,810 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.58s
+2026-01-27 17:11:02,818 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:11:02,893 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0113, Time: 0.16s
+2026-01-27 17:11:02,997 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0109, Time: 0.21s
+2026-01-27 17:11:03,031 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.64s
+2026-01-27 17:11:03,045 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:11:03,045 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.73s
+2026-01-27 17:11:03,049 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:11:03,517 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0111, Time: 0.34s
+2026-01-27 17:11:04,106 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0109, Time: 0.28s
+2026-01-27 17:11:04,121 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 1.37s
+2026-01-27 17:11:04,161 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:11:04,161 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.46s
+2026-01-27 17:11:04,164 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:11:19,515 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2043
+2026-01-27 17:11:19,516 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 Test Accuracy: 20.43%
+2026-01-27 17:11:19,516 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 17:11:19,516 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:11:19,516 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 17:11:19,516 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:11:19,545 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 3 to ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:19,545 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:11:19,587 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:19,594 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:11:19,594 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 3
+2026-01-27 17:11:20,076 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2043
+2026-01-27 17:11:20,076 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 Test Accuracy: 20.43%
+2026-01-27 17:11:20,076 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 17:11:20,077 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:11:20,077 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 17:11:20,077 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:11:20,089 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 3 to ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,090 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:11:20,132 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,137 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:11:20,138 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 3
+2026-01-27 17:11:20,339 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2043
+2026-01-27 17:11:20,340 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 Test Accuracy: 20.43%
+2026-01-27 17:11:20,340 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 17:11:20,340 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:11:20,340 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 17:11:20,340 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:11:20,358 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 3 to ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,359 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:11:20,389 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,395 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:11:20,396 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 3
+2026-01-27 17:11:20,708 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2043
+2026-01-27 17:11:20,709 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 Test Accuracy: 20.43%
+2026-01-27 17:11:20,709 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 17:11:20,709 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:11:20,709 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 17:11:20,709 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:11:20,725 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 3 to ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,725 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:11:20,767 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:20,778 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:11:20,779 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 3
+2026-01-27 17:11:21,698 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2043
+2026-01-27 17:11:21,700 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 Test Accuracy: 20.43%
+2026-01-27 17:11:21,700 - ./logs\fedml-run-0-edge-0.log - INFO - Round 3 completed
+2026-01-27 17:11:21,700 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:11:21,701 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4/5
+2026-01-27 17:11:21,701 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:11:21,727 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 3 to ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:21,727 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:11:21,763 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:11:21,766 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:11:21,767 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 3
+2026-01-27 17:11:57,899 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.6417
+2026-01-27 17:11:58,218 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.6417
+2026-01-27 17:11:58,457 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.6417
+2026-01-27 17:11:58,461 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.6417
+2026-01-27 17:11:59,365 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.6417
+2026-01-27 17:12:34,614 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5455
+2026-01-27 17:12:34,633 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 3 to ./proto_storage\clients\client_0\client_0_round_3.pt
+2026-01-27 17:12:34,633 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:12:34,635 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:12:34,642 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:12:34,649 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:12:34,650 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 3
+2026-01-27 17:12:35,133 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5455
+2026-01-27 17:12:35,146 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 3 to ./proto_storage\clients\client_0\client_0_round_3.pt
+2026-01-27 17:12:35,146 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:12:35,148 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:12:35,164 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:12:35,173 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:12:35,174 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 3
+2026-01-27 17:12:35,437 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5455
+2026-01-27 17:12:35,456 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 3 to ./proto_storage\clients\client_0\client_0_round_3.pt
+2026-01-27 17:12:35,456 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:12:35,458 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:12:35,465 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:12:35,477 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:12:35,479 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 3
+2026-01-27 17:12:35,544 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5455
+2026-01-27 17:12:35,562 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 3 to ./proto_storage\clients\client_0\client_0_round_3.pt
+2026-01-27 17:12:35,562 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:12:35,564 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:12:35,570 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:12:35,575 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:12:35,576 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 3
+2026-01-27 17:12:36,479 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5455
+2026-01-27 17:12:36,495 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 3 to ./proto_storage\clients\client_0\client_0_round_3.pt
+2026-01-27 17:12:36,495 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:12:36,497 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:12:36,506 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_3.pt
+2026-01-27 17:12:36,509 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:12:36,510 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 3
+2026-01-27 17:13:21,667 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.6344
+2026-01-27 17:13:21,989 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.6344
+2026-01-27 17:13:22,266 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.6344
+2026-01-27 17:13:22,463 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.6344
+2026-01-27 17:13:23,401 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.6344
+2026-01-27 17:14:08,096 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.4584
+2026-01-27 17:14:08,122 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 3 to ./proto_storage\clients\client_2\client_2_round_3.pt
+2026-01-27 17:14:08,122 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:14:08,124 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:14:08,124 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:14:08,124 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 17:14:08,152 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 3
+2026-01-27 17:14:08,152 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:14:08,153 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_3.pt
+2026-01-27 17:14:08,184 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 3
+2026-01-27 17:14:08,184 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:14:08,185 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_3.pt
+2026-01-27 17:14:08,185 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:14:08,286 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.4584
+2026-01-27 17:14:08,297 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 3 to ./proto_storage\clients\client_2\client_2_round_3.pt
+2026-01-27 17:14:08,297 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:14:08,298 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:14:08,298 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:14:08,299 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 17:14:08,301 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 3
+2026-01-27 17:14:08,301 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:14:08,302 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_3.pt
+2026-01-27 17:14:08,326 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 3
+2026-01-27 17:14:08,326 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:14:08,327 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_3.pt
+2026-01-27 17:14:08,327 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:14:08,347 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0111, Time: 0.16s
+2026-01-27 17:14:08,444 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0111, Time: 0.12s
+2026-01-27 17:14:08,548 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.4584
+2026-01-27 17:14:08,563 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 3 to ./proto_storage\clients\client_2\client_2_round_3.pt
+2026-01-27 17:14:08,563 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:14:08,565 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:14:08,565 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:14:08,565 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 17:14:08,569 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 3
+2026-01-27 17:14:08,569 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:14:08,569 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_3.pt
+2026-01-27 17:14:08,601 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 3
+2026-01-27 17:14:08,601 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:14:08,602 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_3.pt
+2026-01-27 17:14:08,602 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:14:08,655 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0109, Time: 0.19s
+2026-01-27 17:14:08,726 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0111, Time: 0.12s
+2026-01-27 17:14:08,734 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0109, Time: 0.11s
+2026-01-27 17:14:08,736 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.4584
+2026-01-27 17:14:08,747 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 3 to ./proto_storage\clients\client_2\client_2_round_3.pt
+2026-01-27 17:14:08,747 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:14:08,749 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:14:08,750 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:14:08,751 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 17:14:08,753 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 3
+2026-01-27 17:14:08,754 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:14:08,754 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_3.pt
+2026-01-27 17:14:08,784 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 3
+2026-01-27 17:14:08,785 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:14:08,785 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_3.pt
+2026-01-27 17:14:08,785 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:14:08,811 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0108, Time: 0.07s
+2026-01-27 17:14:08,819 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.62s
+2026-01-27 17:14:08,826 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:14:08,827 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.70s
+2026-01-27 17:14:08,829 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:14:08,854 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0111, Time: 0.07s
+2026-01-27 17:14:08,861 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0108, Time: 0.06s
+2026-01-27 17:14:08,863 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0109, Time: 0.07s
+2026-01-27 17:14:08,866 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.53s
+2026-01-27 17:14:08,875 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:14:08,875 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.58s
+2026-01-27 17:14:08,880 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:14:09,087 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0109, Time: 0.13s
+2026-01-27 17:14:09,113 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0108, Time: 0.12s
+2026-01-27 17:14:09,120 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.51s
+2026-01-27 17:14:09,146 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:14:09,146 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.58s
+2026-01-27 17:14:09,150 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:14:09,502 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0108, Time: 0.21s
+2026-01-27 17:14:09,517 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.71s
+2026-01-27 17:14:09,545 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:14:09,545 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.79s
+2026-01-27 17:14:09,549 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:14:09,652 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.4584
+2026-01-27 17:14:09,665 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 3 to ./proto_storage\clients\client_2\client_2_round_3.pt
+2026-01-27 17:14:09,665 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:14:09,666 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:14:09,667 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:14:09,667 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 3
+2026-01-27 17:14:09,671 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 3
+2026-01-27 17:14:09,671 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:14:09,671 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_3.pt
+2026-01-27 17:14:09,702 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 3
+2026-01-27 17:14:09,702 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:14:09,703 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_3.pt
+2026-01-27 17:14:09,703 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:14:09,960 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0111, Time: 0.26s
+2026-01-27 17:14:10,530 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0109, Time: 0.28s
+2026-01-27 17:14:11,088 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0108, Time: 0.27s
+2026-01-27 17:14:11,111 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 1.38s
+2026-01-27 17:14:11,149 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:14:11,149 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.48s
+2026-01-27 17:14:11,157 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:14:25,578 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2686
+2026-01-27 17:14:25,580 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 Test Accuracy: 26.86%
+2026-01-27 17:14:25,581 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 17:14:25,581 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:14:25,581 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 17:14:25,581 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:14:25,595 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 4 to ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:25,595 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:14:25,641 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:25,654 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:14:25,655 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 4
+2026-01-27 17:14:25,684 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2686
+2026-01-27 17:14:25,684 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 Test Accuracy: 26.86%
+2026-01-27 17:14:25,685 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 17:14:25,685 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:14:25,685 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 17:14:25,685 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:14:25,694 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 4 to ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:25,695 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:14:25,731 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:25,737 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:14:25,739 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 4
+2026-01-27 17:14:25,954 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2686
+2026-01-27 17:14:25,955 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 Test Accuracy: 26.86%
+2026-01-27 17:14:25,956 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 17:14:25,956 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:14:25,956 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 17:14:25,956 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:14:25,974 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 4 to ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:25,974 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:14:26,013 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:26,019 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:14:26,021 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 4
+2026-01-27 17:14:26,472 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2686
+2026-01-27 17:14:26,474 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 Test Accuracy: 26.86%
+2026-01-27 17:14:26,474 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 17:14:26,474 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:14:26,475 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 17:14:26,475 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:14:26,487 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 4 to ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:26,488 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:14:26,525 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:26,531 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:14:26,532 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 4
+2026-01-27 17:14:28,125 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2686
+2026-01-27 17:14:28,126 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 Test Accuracy: 26.86%
+2026-01-27 17:14:28,127 - ./logs\fedml-run-0-edge-0.log - INFO - Round 4 completed
+2026-01-27 17:14:28,127 - ./logs\fedml-run-0-edge-0.log - INFO - 
+============================================================
+2026-01-27 17:14:28,127 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5/5
+2026-01-27 17:14:28,127 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:14:28,142 - ./logs\fedml-run-0-edge-0.log - INFO - Saved global protos for round 4 to ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:28,142 - ./logs\fedml-run-0-edge-0.log - INFO - Selected clients: [0, 2]
+2026-01-27 17:14:28,176 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:14:28,180 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 0...
+2026-01-27 17:14:28,181 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 starting training for round 4
+2026-01-27 17:15:05,994 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.5835
+2026-01-27 17:15:06,249 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.5835
+2026-01-27 17:15:07,129 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.5835
+2026-01-27 17:15:07,187 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.5835
+2026-01-27 17:15:09,021 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 0, Loss: 1.5835
+2026-01-27 17:15:44,121 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5086
+2026-01-27 17:15:44,141 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 4 to ./proto_storage\clients\client_0\client_0_round_4.pt
+2026-01-27 17:15:44,141 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:15:44,142 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:15:44,151 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:15:44,155 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:15:44,156 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 4
+2026-01-27 17:15:44,193 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5086
+2026-01-27 17:15:44,226 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 4 to ./proto_storage\clients\client_0\client_0_round_4.pt
+2026-01-27 17:15:44,227 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:15:44,228 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:15:44,236 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:15:44,241 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:15:44,242 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 4
+2026-01-27 17:15:44,439 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5086
+2026-01-27 17:15:44,448 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 4 to ./proto_storage\clients\client_0\client_0_round_4.pt
+2026-01-27 17:15:44,448 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:15:44,450 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:15:44,456 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:15:44,458 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:15:44,459 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 4
+2026-01-27 17:15:44,903 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5086
+2026-01-27 17:15:44,913 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 4 to ./proto_storage\clients\client_0\client_0_round_4.pt
+2026-01-27 17:15:44,914 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:15:44,915 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:15:44,923 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:15:44,926 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:15:44,928 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 4
+2026-01-27 17:15:46,440 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 Epoch 1, Loss: 1.5086
+2026-01-27 17:15:46,454 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 0 protos for round 4 to ./proto_storage\clients\client_0\client_0_round_4.pt
+2026-01-27 17:15:46,455 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished training, collected 10 protos
+2026-01-27 17:15:46,460 - ./logs\fedml-run-0-edge-0.log - INFO - Client 0 finished, samples=10000
+2026-01-27 17:15:46,472 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 loaded global protos from ./proto_storage\global\global_round_4.pt
+2026-01-27 17:15:46,475 - ./logs\fedml-run-0-edge-0.log - INFO - Training client 2...
+2026-01-27 17:15:46,475 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 starting training for round 4
+2026-01-27 17:16:32,583 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.4640
+2026-01-27 17:16:32,704 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.4640
+2026-01-27 17:16:33,007 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.4640
+2026-01-27 17:16:33,629 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.4640
+2026-01-27 17:16:34,752 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 0, Loss: 1.4640
+2026-01-27 17:17:17,957 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.3778
+2026-01-27 17:17:17,983 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 4 to ./proto_storage\clients\client_2\client_2_round_4.pt
+2026-01-27 17:17:17,983 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:17:17,984 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:17:17,984 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:17:17,985 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 17:17:18,015 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 4
+2026-01-27 17:17:18,015 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:17:18,016 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_4.pt
+2026-01-27 17:17:18,047 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 4
+2026-01-27 17:17:18,048 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:17:18,048 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_4.pt
+2026-01-27 17:17:18,048 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:17:18,133 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.3778
+2026-01-27 17:17:18,160 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 4 to ./proto_storage\clients\client_2\client_2_round_4.pt
+2026-01-27 17:17:18,161 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:17:18,161 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:17:18,161 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:17:18,162 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 17:17:18,164 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 4
+2026-01-27 17:17:18,164 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:17:18,164 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_4.pt
+2026-01-27 17:17:18,203 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 4
+2026-01-27 17:17:18,203 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:17:18,204 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_4.pt
+2026-01-27 17:17:18,204 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:17:18,332 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0106, Time: 0.28s
+2026-01-27 17:17:18,414 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0106, Time: 0.21s
+2026-01-27 17:17:18,473 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.3778
+2026-01-27 17:17:18,489 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 4 to ./proto_storage\clients\client_2\client_2_round_4.pt
+2026-01-27 17:17:18,490 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:17:18,492 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:17:18,493 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:17:18,493 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 17:17:18,495 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 4
+2026-01-27 17:17:18,496 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:17:18,496 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_4.pt
+2026-01-27 17:17:18,525 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 4
+2026-01-27 17:17:18,525 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:17:18,526 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_4.pt
+2026-01-27 17:17:18,526 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:17:18,597 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0104, Time: 0.13s
+2026-01-27 17:17:18,619 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0106, Time: 0.09s
+2026-01-27 17:17:18,647 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0104, Time: 0.09s
+2026-01-27 17:17:18,774 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0103, Time: 0.08s
+2026-01-27 17:17:18,778 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.72s
+2026-01-27 17:17:18,794 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:17:18,794 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.81s
+2026-01-27 17:17:18,796 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:17:18,815 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0104, Time: 0.09s
+2026-01-27 17:17:18,855 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0103, Time: 0.11s
+2026-01-27 17:17:18,870 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.65s
+2026-01-27 17:17:18,897 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:17:18,897 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.73s
+2026-01-27 17:17:18,902 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:17:18,969 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.3778
+2026-01-27 17:17:18,987 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 4 to ./proto_storage\clients\client_2\client_2_round_4.pt
+2026-01-27 17:17:18,987 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:17:18,988 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:17:18,988 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:17:18,989 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 17:17:18,991 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 4
+2026-01-27 17:17:18,992 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:17:18,992 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_4.pt
+2026-01-27 17:17:19,018 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 4
+2026-01-27 17:17:19,018 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:17:19,018 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_4.pt
+2026-01-27 17:17:19,018 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:17:19,141 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0106, Time: 0.12s
+2026-01-27 17:17:19,151 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0103, Time: 0.12s
+2026-01-27 17:17:19,163 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 0.62s
+2026-01-27 17:17:19,184 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:17:19,185 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 0.69s
+2026-01-27 17:17:19,188 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:17:19,610 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0104, Time: 0.24s
+2026-01-27 17:17:19,823 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 Epoch 1, Loss: 1.3778
+2026-01-27 17:17:19,842 - ./logs\fedml-run-0-edge-0.log - INFO - Saved client 2 protos for round 4 to ./proto_storage\clients\client_2\client_2_round_4.pt
+2026-01-27 17:17:19,842 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished training, collected 9 protos
+2026-01-27 17:17:19,843 - ./logs\fedml-run-0-edge-0.log - INFO - Client 2 finished, samples=12751
+2026-01-27 17:17:19,844 - ./logs\fedml-run-0-edge-0.log - INFO - Server aggregating...
+2026-01-27 17:17:19,844 - ./logs\fedml-run-0-edge-0.log - INFO - Server: Starting aggregation for round 4
+2026-01-27 17:17:19,847 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 0 protos for round 4
+2026-01-27 17:17:19,847 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 0: 10 classes
+2026-01-27 17:17:19,847 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_1\client_1_round_4.pt
+2026-01-27 17:17:19,870 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded client 2 protos for round 4
+2026-01-27 17:17:19,871 - ./logs\fedml-run-0-edge-0.log - INFO - Loaded protos from client 2: 9 classes
+2026-01-27 17:17:19,871 - ./logs\fedml-run-0-edge-0.log - WARNING - Client protos not found: ./proto_storage\clients\client_3\client_3_round_4.pt
+2026-01-27 17:17:19,871 - ./logs\fedml-run-0-edge-0.log - INFO - Updating TGP with 2 clients' protos
+2026-01-27 17:17:20,070 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 0, Loss: 0.0106, Time: 0.20s
+2026-01-27 17:17:20,076 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0103, Time: 0.16s
+2026-01-27 17:17:20,088 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 1.05s
+2026-01-27 17:17:20,109 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:17:20,110 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.12s
+2026-01-27 17:17:20,118 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:17:20,568 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 2, Loss: 0.0104, Time: 0.25s
+2026-01-27 17:17:21,158 - ./logs\fedml-run-0-edge-0.log - INFO - TGP Epoch 4, Loss: 0.0103, Time: 0.26s
+2026-01-27 17:17:21,191 - ./logs\fedml-run-0-edge-0.log - INFO - Global protos updated for 10 classes in 1.28s
+2026-01-27 17:17:21,205 - ./logs\fedml-run-0-edge-0.log - INFO - Cleared old protos, keeping last 10 rounds
+2026-01-27 17:17:21,205 - ./logs\fedml-run-0-edge-0.log - INFO - Aggregation completed in 1.36s
+2026-01-27 17:17:21,209 - ./logs\fedml-run-0-edge-0.log - INFO - Testing global model...
+2026-01-27 17:17:35,363 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2927
+2026-01-27 17:17:35,363 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 Test Accuracy: 29.27%
+2026-01-27 17:17:35,363 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 17:17:35,363 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:35,363 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone FedTGP training completed!
+2026-01-27 17:17:35,364 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:35,620 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2927
+2026-01-27 17:17:35,621 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 Test Accuracy: 29.27%
+2026-01-27 17:17:35,621 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 17:17:35,622 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:35,622 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone FedTGP training completed!
+2026-01-27 17:17:35,622 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:36,332 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2927
+2026-01-27 17:17:36,332 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 Test Accuracy: 29.27%
+2026-01-27 17:17:36,332 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 17:17:36,333 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:36,333 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone FedTGP training completed!
+2026-01-27 17:17:36,333 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:37,526 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2927
+2026-01-27 17:17:37,527 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 Test Accuracy: 29.27%
+2026-01-27 17:17:37,527 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 17:17:37,527 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:37,527 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone FedTGP training completed!
+2026-01-27 17:17:37,527 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:38,697 - ./logs\fedml-run-0-edge-0.log - INFO - Server test accuracy (proto-based): 0.2927
+2026-01-27 17:17:38,698 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 Test Accuracy: 29.27%
+2026-01-27 17:17:38,698 - ./logs\fedml-run-0-edge-0.log - INFO - Round 5 completed
+2026-01-27 17:17:38,698 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
+2026-01-27 17:17:38,698 - ./logs\fedml-run-0-edge-0.log - INFO - Standalone FedTGP training completed!
+2026-01-27 17:17:38,698 - ./logs\fedml-run-0-edge-0.log - INFO - ============================================================
